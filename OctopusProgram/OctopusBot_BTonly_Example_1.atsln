@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "OctopusBot_BTonly_Example_1", "OctopusBot_BTonly_Example_1\OctopusBot_BTonly_Example_1.cproj", "{63C2034D-D77D-403B-AFD2-726A5DA58548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C2034D-D77D-403B-AFD2-726A5DA58548}.Debug|AVR.ActiveCfg = Debug|AVR
+		{63C2034D-D77D-403B-AFD2-726A5DA58548}.Debug|AVR.Build.0 = Debug|AVR
+		{63C2034D-D77D-403B-AFD2-726A5DA58548}.Release|AVR.ActiveCfg = Release|AVR
+		{63C2034D-D77D-403B-AFD2-726A5DA58548}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
